@@ -1,3 +1,5 @@
+# A "Connect 5" Tournament, similar to connnect 4 but with some special rules to counter plagiatism. The main.java shows my engine, that was able to get the 2. place overall in the tournament. The rest ist a python setup to make engine play against each other. I have not done all of them, credits to Yannick Fischer.
+
 # groups.txt
 This file you be in the same folder as the application. The file contains the groups participating in the tournament.
 The groups are listed line by line and consist of a name and program call separated by ';'.
